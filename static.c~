@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main( void )
+{
+  int i;
+  static int static_var = 30;
+
+  
+}
